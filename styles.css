@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #000008; /* Gray background */
+  color: #030300; /* Charcoal text */
+}
+
+header {
+  background-color: #030300; /* Black */
+  color: #D4AF37; /* Charcoal text */
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  color: #D4AF37; /* Gold links */
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #030300; /* White hover */
+}
+
+section {
+  padding: 2rem;
+  background-color: #D4AF37;
+  margin: 1rem auto;
+  max-width: 900px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+h1, h2, h3 {
+  color: #7B2C3B; /* Wine */
+}
+
+.avatar img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #D4AF37; /* Gold border */
+}
+
+footer {
+  background-color: #111111; /* Black */
+  color: #D4AF37; /* Gold text */
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
