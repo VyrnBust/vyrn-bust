@@ -1,11 +1,11 @@
-Nicholas Opoku - Personal Website (Multi-page, Updated)
--------------------------------------------------------
+Nicholas Opoku - Personal Website (Multi-page)
+---------------------------------------------
 Files included:
 - index.html (Home)
-- about.html (Updated About + Career Objective)
+- about.html
 - education.html
-- experience.html (Technical Experience added first, Teaching Experience second)
-- skills.html (Technical details added)
+- experience.html
+- skills.html
 - projects.html
 - contact.html
 - styles.css
